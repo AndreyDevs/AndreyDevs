@@ -4,4 +4,5 @@
   <img src="https://img.shields.io/badge/HTML-c58545?style=for-the-badge&logo=html5&logoColor=c58545&labelColor=282828">
   <img src="https://img.shields.io/badge/CSS-2972AD?style=for-the-badge&logo=css3&logoColor=2972AD&labelColor=282828">
   <img src="https://img.shields.io/badge/JS-F0E600?style=for-the-badge&logo=javascript&logoColor=F0E600&labelColor=282828">
+  <img src="https://img.shields.io/badge/C%2B%2B-27A5CD?style=for-the-badge&logo=c%2B%2B&logoColor=27A5CD&labelColor=282828">
 </div>

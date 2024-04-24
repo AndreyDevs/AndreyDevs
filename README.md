@@ -7,4 +7,5 @@
   <img src="https://img.shields.io/badge/C%2B%2B-27A5CD?style=for-the-badge&logo=c%2B%2B&logoColor=27A5CD&labelColor=282828">
   <img src="https://img.shields.io/badge/C-007FA8?style=for-the-badge&logo=c&logoColor=007FA8&labelColor=282828">
   <img src="https://img.shields.io/badge/kotlin-A336C9?style=for-the-badge&logo=kotlin&logoColor=A336C9&labelColor=282828">
+  <img src="https://img.shields.io/badge/python-F0E600?style=for-the-badge&logo=python&logoColor=F0E600&labelColor=282828">
 </div>

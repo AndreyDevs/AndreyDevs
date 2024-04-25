@@ -16,22 +16,24 @@
 
 - ### Frontend tools
     <div align="center">
-      <img src="https://img.shields.io/badge/Python-05122A?style=flat&logo=python">
+        <img src="https://img.shields.io/badge/HMTL5-05122A?style=flat&logo=html5"/>
+        <img src="https://img.shields.io/badge/CSS-05122A?style=flat&logo=css3&logoColor=2C87F0"/>
+        <img src=""/>
     </div>
 
 - ### Backend tools
     <div align="center">
-      <img src="https://img.shields.io/badge/Python-05122A?style=flat&logo=python">
+        <img src=""/>
     </div>
 
 - ### Software & Tools
     <div align="center">
-      <img src="https://img.shields.io/badge/Python-05122A?style=flat&logo=python">
+        <img src=""/>
     </div>
 
 - ### IDEs
     <div align="center">
-      <img src="https://img.shields.io/badge/Python-05122A?style=flat&logo=python">
+        <img src=""/>
     </div>
 
 - ### Operating systems

@@ -22,7 +22,7 @@
     </div>
 
 - Backend tools:
-    <div align="center">
+    <div>
         <img src="https://img.shields.io/badge/SpringBoot-05122A?style=flat&logo=SpringBoot"/>
         <img src="https://img.shields.io/badge/SpringSecurity-05122A?style=flat&logo=SpringSecurity"/>
     </div>

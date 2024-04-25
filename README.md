@@ -7,3 +7,4 @@
       <img src="https://img.shields.io/badge/Python-05122A?style=flat&logo=python">
     </div>
 </div>
+- :nerd_face: Always `learning new things`.

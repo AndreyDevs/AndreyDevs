@@ -1,10 +1,16 @@
-
-
-
 <h1 align="center"><b>Hi , I'm AndreyDevs </b><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 
 ## 👨🏻‍💻 &nbsp;About Me
-💡 &nbsp;Hola.\
+💡 &nbsp;Recent graduate from UNA with a passion for computer engineering.\
+💡 &nbsp;Extensive education in computer engineering, with a focus on software development.\
+💡 &nbsp;Practical experience in developing mobile applications for Android.\
+💡 &nbsp;Strong experience in web development, covering design, layout, and system development using technologies such as HTML, CSS, JavaScript, and PHP.\
+💡 &nbsp;Skills in desktop application development using C++ and Java.\
+💡 &nbsp;Competent in network administration, including configuration and maintenance.\
+💡 &nbsp;Experience in relational database administration, such as MySQL and PostgreSQL.\
+💡 &nbsp;Committed to continuous learning and constant improvement of technical skills.\
+💡 &nbsp;Proactive and collaborative, capable of working efficiently both in teams and independently.\
+💡 &nbsp;Interested in contributing to open-source projects and continuing to explore new technologies and trends in software development.\
 
 ## 🛠️ My skills
 - Programming languages:
@@ -14,6 +20,7 @@
         <img src="https://img.shields.io/badge/Java-05122A?style=flat&logo=java"/>
         <img src="https://img.shields.io/badge/JavaScript-05122A?style=flat&logo=javascript"/>
         <img src="https://img.shields.io/badge/Kotlin-05122A?style=flat&logo=kotlin"/>
+        <img src="https://img.shields.io/badge/PHP-05122A?style=flat&logo=PHP"/>
         <img src="https://img.shields.io/badge/Python-05122A?style=flat&logo=python&logoColor=EDDF2E"/>
     </div>
 

@@ -6,8 +6,8 @@
 ## 🛠️ My skills
 - ### Programming languages
     <div align="center">
-        <img src="https://img.shields.io/badge/C-05122A?style=flat&logo=c&logoColor=286EBF"/>
         <img src="https://img.shields.io/badge/C-05122A?style=flat&logo=c"/>
+        <img src="https://img.shields.io/badge/C++-05122A?style=flat&logo=c++&logoColor=286EBF"/>
         <img src="https://img.shields.io/badge/Java-05122A?style=flat&logo=java"/>
         <img src="https://img.shields.io/badge/JavaScript-05122A?style=flat&logo=javascript"/>
         <img src="https://img.shields.io/badge/Kotlin-05122A?style=flat&logo=kotlin"/>

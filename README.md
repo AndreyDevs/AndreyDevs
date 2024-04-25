@@ -6,7 +6,7 @@
 ## 🛠️ My skills
 - ### Programming languages
     <div align="center">
-      <img src="https://img.shields.io/badge/Python-05122A?style=flat&logo=python">
+      <img src="https://img.shields.io/badge/Python-05122A?style=flat&logo=python&logoColor=EDDF2E">
     </div>
 
 - ### Frontend tools

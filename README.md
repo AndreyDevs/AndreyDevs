@@ -16,7 +16,7 @@
 💡 &nbsp;Proactive and collaborative, capable of working efficiently both in teams and independently.\
 💡 &nbsp;Interested in contributing to open-source projects and continuing to explore new technologies and trends in software development.
 
-## 📈 My statistics
+## <picture><img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExOGhqZXRzbnE3N2M1Ymh0NGxydWZ4MngyemZzODE3Y3hjbDduNDZmZCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/iIephUVYDziLt2uOy9/giphy.gif" width = 50px></picture> My statistics
 <table align="center">
 <tr border="none">
 <td width="50%" align="center">
@@ -33,7 +33,7 @@
 </table>
 
 
-## 🛠️ My skills
+## <picture><img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExOGhqZXRzbnE3N2M1Ymh0NGxydWZ4MngyemZzODE3Y3hjbDduNDZmZCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/iIephUVYDziLt2uOy9/giphy.gif" width = 50px></picture> My skills
 - Programming languages:
     <div>
         <img src="https://img.shields.io/badge/C-05122A?style=flat&logo=c"/>

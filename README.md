@@ -17,7 +17,7 @@
 💡 &nbsp;Interested in contributing to open-source projects and continuing to explore new technologies and trends in software development.
 
 ## 📈 My statistics
-<div>
+<div diplay="flex" >
   <div width="50%" align="center">
       <img  align="center"  src="https://github-readme-stats.vercel.app/api?username=AndreyDevs&theme=dark&show_icons=true&count_private=true" />
   <br></br>

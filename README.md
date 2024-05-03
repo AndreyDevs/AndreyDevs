@@ -16,7 +16,7 @@
 💡 &nbsp;Proactive and collaborative, capable of working efficiently both in teams and independently.\
 💡 &nbsp;Interested in contributing to open-source projects and continuing to explore new technologies and trends in software development.
 
-  <img  align="center"  src="https://github-readme-stats.vercel.app/api?username=1010nishant&theme=dark&show_icons=true&count_private=true" />
+<img  align="center"  src="https://github-readme-stats.vercel.app/api?username=AndreyDevs&theme=dark&show_icons=true&count_private=true" />
 
 ## 🛠️ My skills
 - Programming languages:

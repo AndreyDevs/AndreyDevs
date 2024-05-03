@@ -14,7 +14,7 @@
 💡 &nbsp;Experience in relational database administration, such as MySQL and PostgreSQL.\
 💡 &nbsp;Committed to continuous learning and constant improvement of technical skills.\
 💡 &nbsp;Proactive and collaborative, capable of working efficiently both in teams and independently.\
-💡 &nbsp;Interested in contributing to open-source projects and continuing to explore new technologies and trends in software development.\
+💡 &nbsp;Interested in contributing to open-source projects and continuing to explore new technologies and trends in software development.
 
 ## 🛠️ My skills
 - Programming languages:

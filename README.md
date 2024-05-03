@@ -33,7 +33,7 @@
 </table>
 
 
-## <picture><img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExY2Vqd3Uyeng0amM2bjcycjd0NG05d2ZpZWF3YXdlZnp3eGQzejJ5NyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/EaN6wA2YNuw44CusBt/giphy.gif" width = 50px></picture> My skills
+## <picture><img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 50px></picture> My skills
 - Programming languages:
     <div>
         <img src="https://img.shields.io/badge/C-05122A?style=flat&logo=c"/>

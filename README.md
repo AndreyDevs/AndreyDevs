@@ -16,7 +16,7 @@
 💡 &nbsp;Proactive and collaborative, capable of working efficiently both in teams and independently.\
 💡 &nbsp;Interested in contributing to open-source projects and continuing to explore new technologies and trends in software development.
 
-## <picture><img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExd284dW8xdWJyZXZ3MG5udDlnc3JxcWk5eGY4YmN0NDg4cW56bDA5MyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/YOBYiO1RiAfK1cvI8l/giphy.gif" width = 40px></picture> My statistics
+## <picture><img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExd284dW8xdWJyZXZ3MG5udDlnc3JxcWk5eGY4YmN0NDg4cW56bDA5MyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/YOBYiO1RiAfK1cvI8l/giphy.gif" width = 50px></picture> My statistics
 <table align="center">
 <tr border="none">
 <td width="50%" align="center">
